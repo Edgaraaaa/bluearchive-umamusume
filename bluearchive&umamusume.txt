@@ -1,0 +1,15 @@
+# > 碧蓝档案
+DOMAIN,graph.facebook.com
+DOMAIN,cdp.cloud.unity3d.com
+DOMAIN,config.uca.cloud.unity3d.com
+DOMAIN,ba-jp-sdk.bluearchive.jp
+DOMAIN,yostar-oversea-netsdk-logging.ap-southeast-1.log.aliyuncs.com
+DOMAIN,yostar-oversea-client-logging.ap-southeast-1.log.aliyuncs.com
+DOMAIN-SUFFIX,bluearchiveyostar.com
+DOMAIN-SUFFIX,yo-star.com
+IP-CIDR,13.113.125.63/32,no-resolve
+# > 赛马娘
+DOMAIN,prd-info-umamusume.akamaized.net
+DOMAIN,prd-storage-app-umamusume.akamaized.net
+DOMAIN,prd-storage-game-umamusume.akamaized.net
+DOMAIN-SUFFIX,cygames.jp
