@@ -1,12 +1,12 @@
-# > 碧蓝档案
-DOMAIN,graph.faceboook.com
-DOMAIN,config.uca.cloud.unity3d.com
-DOMAIN,ba-jp-sdk.bluearchive.jp
-DOMAIN-SUFFIX,bluearchiveyostar.com
-DOMAIN-SUFFIX,yo-star.com
+#碧蓝档案
+HOST,graph.faceboook.com
+HOST,config.uca.cloud.unity3d.com
+HOST,ba-jp-sdk.bluearchive.jp
+HOST-SUFFIX,bluearchiveyostar.com
+HOST-SUFFIX,yo-star.com
 IP-CIDR,13.113.125.63/32,no-resolve
-# > 赛马娘
-DOMAIN,prd-info-umamusume.akamaized.net
-DOMAIN,prd-storage-app-umamusume.akamaized.net
-DOMAIN,prd-storage-game-umamusume.akamaized.net
-DOMAIN-SUFFIX,cygames.jp
+#赛马娘
+HOST,prd-info-umamusume.akamaized.net
+HOST,prd-storage-app-umamusume.akamaized.net
+HOST,prd-storage-game-umamusume.akamaized.net
+HOST-SUFFIX,cygames.jp
