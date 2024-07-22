@@ -5,6 +5,8 @@ DOMAIN,ba-jp-sdk.bluearchive.jp
 DOMAIN-SUFFIX,bluearchiveyostar.com
 DOMAIN-SUFFIX,yo-star.com
 IP-CIDR,13.113.125.63/32,no-resolve
+DOMAIN-KEYWORD,yostar
+DOMAIN-KEYWORD,yo-star
 # > 赛马娘
 DOMAIN,prd-info-umamusume.akamaized.net
 DOMAIN,prd-storage-app-umamusume.akamaized.net
